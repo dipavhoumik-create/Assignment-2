@@ -1,0 +1,10 @@
+{
+  "Username": ["locked_user", "standard_user", "performance_glitch_user"],
+  "password": "secret_sauce",
+
+  "firstname": "John",
+  "lastname": "Doe",
+  "zipcode": "12345",
+
+  "filterOption": ["az", "za", "lohi", "hilo"]
+}
